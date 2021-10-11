@@ -1,0 +1,69 @@
+
+
+
+
+/*class*/
+
+
+.container{
+  width: 600px;
+  margin: 100px auto;
+  text-align: center;
+  background: darkblue;
+  font-family: 'Dancing Script', cursive;
+}
+.Time{
+  font-family: 'Dancing Script', cursive;
+}
+
+.title{
+  background: pink;
+}
+.body{
+  background: black;
+}
+.footer{
+  background: pink;
+}
+/*Tag*/
+body{
+  background: url('../images/sky.png');
+  font-family: 'Open Sans', arial, sans-serif;
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: white;
+}
+
+* {
+  -moz-box-sizing: border-box; /* Firexfox */
+  -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+  box-sizing: border-box; /* IE */
+}
+
+h1{
+  font-family: 'Akronim', cursive;
+  font-size: 5rem;
+}
+
+h2{
+  font-family: 'Italianno', cursive;
+  font-size: 4rem;
+}
+
+
+h1,h2{
+  margin-bottom: 2rem;
+}
+
+p{
+  color: white;
+}
+
+footer{
+  background: white;
+}
+
+
+
